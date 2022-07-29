@@ -16,6 +16,7 @@ public class demo2
 		char sym='&';
 		boolean y=true;
 		boolean y1= false;
-		System.out.println(y);		
+		System.out.println(y);	
+		System.out.println(y1);	
 	}
 }
